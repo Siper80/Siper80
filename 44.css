@@ -1,6 +1,6 @@
 :root {
-	   --bgColor: #f0f0f0;   /* 배경 색 */
-     --bgFrame: #ffffff;   /* 프레임 배경색 */
+	   --bgColor: #FFB2F5;   /* 배경 색 */
+     --bgFrame: #FFE400;   /* 프레임 배경색 */
 	 --mainColor: #4374D9;   /* 메인 컬러 */
 	--mainColor5: #77777755; /* 공지, 인기글 hover */
 	--mainColor3: #77777733; /* 공지, 인기글 */

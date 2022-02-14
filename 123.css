@@ -6,7 +6,7 @@ body {
 
     height: auto !important;
 
-    background: #B2EBF4; 
+    /* background: #B2EBF4; */ 
 
 }
 
@@ -24,7 +24,7 @@ header .row>div:nth-child(1)>a {
 
     height: 50px;
 
-    background: url(https://jayppo.github.io/CSS/source/CI.png) 
+    /* background: url(https://jayppo.github.io/CSS/source/CI.png) */ 
 
     background-size: auto 50px;
 
@@ -46,7 +46,7 @@ header .row>div:nth-child(1)>a>img {
 
 header #right-search-form>input[type=text] {
 
-    border: 3px solid #FF0000; 
+    /* border: 3px solid #FF0000; */ 
 
     border-radius: 15px;
 
@@ -60,7 +60,7 @@ header #right-search-form>input[type=text] {
 
 header #right-search-form>#right-search-btn {
 
-    color: #191919; 
+    /* color: #191919; */
 
 }
 
@@ -84,9 +84,9 @@ header #header-bar>.row, #main .menu-wrapper, #main #main-content>div.frame {
 
 header #header-bar>.row {
 
-    border-top: 5px solid #FF0000;
+    /* border-top: 5px solid #FF0000; */
 
-    border: 1px solid #FF0000; 
+    /* border: 1px solid #FF0000; */ 
 
 }
 
@@ -98,7 +98,7 @@ header #header-bar>.row {
 
 header #header-bar #header-top-notice strong.notice-badge {
 
-    background: #191919; 
+    /* background: #191919; */
 }
 
 
@@ -109,7 +109,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main .menu-wrapper {
 
-    border: 1px solid #00D8FF; 
+    /* border: 1px solid #00D8FF; */
 
     border-top: none !important;
 
@@ -123,7 +123,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main .menu-wrapper>.header {
 
-    background: #1DDB16;
+    /* background: #1DDB16; */
 
     border-radius: 15px 15px 0 0;
 
@@ -161,9 +161,9 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main #main-content>div.frame {
 
-    border-top: 5px solid #F361DC; 
+    /* border-top: 5px solid #F361DC; */
 
-    border: 1px solid #F361DC;
+    /* border: 1px solid #F361DC; */
 
 }
 
@@ -175,7 +175,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #board-info #viewers-area {
 
-    color: #191919;
+    /* color: #191919; */
 
 }
 
@@ -207,7 +207,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #article-list>.article-list-row.notice {
 
-    background-color: #0054FF;
+    /* background-color: #0054FF; */
 
 }
 
@@ -219,7 +219,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #article-list>.article-list-row>.item>.list-header>span {
 
-    background-color: #F6F6F6;
+    /* background-color: #F6F6F6; */
 
 }
 
@@ -231,7 +231,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #article-list>.article-list-row>.item>.list-title>small.comment-count {
 
-    color: #F6F6F6; 
+    /* color: #F6F6F6; */ 
 
 }
 
@@ -239,7 +239,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #article-reply-area > .header h5 {
 
-    color: #F6F6F6;
+    /* color: #F6F6F6; */
 
 }
 
@@ -295,9 +295,9 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 .btn-primary {
 
-    background-color: #191919; 
+    /* background-color: #191919; */
 
-    border-color: #191919;
+    /* border-color: #191919; */
 
 }
 
@@ -329,8 +329,8 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 .btn-outline-success {
 
-    color: #D4F4FA; 
+    /* color: #D4F4FA; */
 
-    border-color: #B0D0D6; 
+    /* border-color: #B0D0D6; */
 
 }

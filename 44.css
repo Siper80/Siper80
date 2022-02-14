@@ -15,9 +15,9 @@ html.darkmode:root {
 	   --bgColor: #f0f0f0;   /* 배경 색 */
      --bgFrame: #242424;   /* 프레임 배경색 */
 	 --mainColor: #777777;   /* 메인 컬러 */
-	--mainColor5: #77777755; /* 공지, 인기글 hover */
-	--mainColor3: #77777733; /* 공지, 인기글 */
-	--mainColor2: #77777722; /* 트게더 메뉴, 게시글 hover */
+	--mainColor5: #FF0000; /* 공지, 인기글 hover */
+	--mainColor3: #FFE400; /* 공지, 인기글 */
+	--mainColor2: #F361A6; /* 트게더 메뉴, 게시글 hover */
 	--logoURL: url(여기에 로고 주소 입력);
 	--logoWidth: 200px;	 /* 로고 너비 */
 }

@@ -1,5 +1,5 @@
 :root {
-	--maincolor: #4374D9;	/* 메인색 */
+	--maincolor: #008299;	/* 메인색 */
 	--bgcolor: #f3f2f0;	/* 배경색 */
 }
 
@@ -11,7 +11,7 @@ html.darkmode:root {
 /* 너비 1100px 이하로 바뀌면 적용되는 설정 */
 @media (max-width: 1100px) {
 	:root {
-	--maincolor: #6a49a8;	/* 메인색 */
+	--maincolor: #A30B56;	/* 메인색 */
 	--bgcolor: #f3f2f0;	/* 배경색 */
 	}
 	

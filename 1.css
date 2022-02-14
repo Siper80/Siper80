@@ -1,11 +1,11 @@
 :root {
   --color-0: #BDBDBD; /* box color */
 
-  --color-1: #FFB2D9; /* */
-  --color-2: #FFB2D9; /* */
-  --color-3: #FF0000; /* main color */
-  --color-4: #47C83E; /* sub  color */
-  --color-5: #0054FF; /* */
+  --color-1: #C4FDFF; /* */
+  --color-2: #A0D9E2; /* */
+  --color-3: #8EC7D0; /* main color */
+  --color-4: #B5B2FF; /* sub  color */
+  --color-5: #6799FF; /* */
 
   --logo-URL: url("https://jayppo.github.io/CSS/source/CI.png");
   --logo-Width: 158px;

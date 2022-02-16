@@ -1,10 +1,10 @@
 :root {
 	   --bgColor: #C4DEFF;   /* 배경 색 */
      --bgFrame: #FFD9EC;   /* 프레임 배경색 */
-	 --mainColor: #47C83E;   /* 메인 컬러 */
-	--mainColor5: #C4B73B; /* 공지, 인기글 hover */
-	--mainColor3: #CC3D3D; /* 공지, 인기글 */
-	--mainColor2: #660058; /* 트게더 메뉴, 게시글 hover */
+	 --mainColor: #000093;   /* 메인 컬러 */
+	--mainColor5: #00A2C9; /* 공지, 인기글 hover */
+	--mainColor3: #00A2C933; /* 공지, 인기글 */
+	--mainColor2: #00009322; /* 트게더 메뉴, 게시글 hover */
 	--logoURL: url(여기에 로고 주소 입력);
 	--logoWidth: 200px;	 /* 로고 너비 */
 	--before: ""; /* 접속자 수 앞 문구 */

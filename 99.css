@@ -1,6 +1,6 @@
 :root {
-	--maincolor: #B2CCFF;	/* 메인색 */
-	--bgcolor: #D2D2D2;	/* 배경색 */
+	--maincolor: #B778FF;	/* 메인색 */
+	--bgcolor: #A0D9E2;	/* 배경색 */
 }
 
 html.darkmode:root {

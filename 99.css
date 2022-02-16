@@ -1,10 +1,10 @@
 :root {
 	--maincolor: #008299;	/* 메인색 */
-	--bgcolor: #f3f2f0;	/* 배경색 */
+	--bgcolor: #D2D2D2;	/* 배경색 */
 }
 
 html.darkmode:root {
-	--maincolor: #b8a6d8;	/* 메인색 */
+	--maincolor: #6799FF;	/* 메인색 */
 	--bgcolor: #151515; /* 배경색 */
 }
 

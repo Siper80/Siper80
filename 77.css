@@ -1,10 +1,10 @@
 :root {
   --bg: url("https://www.toptal.com/designers/subtlepatterns/patterns/sun-pattern.png");
-  --color: #0009;
+  --color: #3DB7CC;
   --logoURL: url(여기에 로고 주소 입력);
   --logoWidth: 200px;  /* 로고 너비 */
-  --before: "";  /* 접속자 수 앞 문구 */
-  --after: "";  /* 접속자 수 뒤 문구 */
+  --before: "";  /* 기다리는 */
+  --after: "";  /* 명 */
 }
 
 * {

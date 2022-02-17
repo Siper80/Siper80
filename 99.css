@@ -289,7 +289,6 @@ select.form-control,
 input.form-control {
 	box-shadow: inset 0 0 0 0 var(--btcolor) !important;
 	border-color: #FFFFFF !important;
-	color: #FFFFFF !important;
 	padding: 5px 12px;
 	height: 28px !important;
 	background: transparent !important;

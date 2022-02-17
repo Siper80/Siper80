@@ -63,13 +63,13 @@ body { background: transparent !important; }
 header #right-search-form>input[type=text] {
 	border: 3px solid var(--maincolor) !important;
 	border-radius: 5px !important;
-            border-color: #F15F5F
+            border-color: #000000
 	background: transparent !important;
 	color: var(--maincolor) !important;
 }
 header #right-search-form>input::placeholder,
 header #right-search-form>#right-search-btn { 
-	color: #F15F5F !important;
+	color: #000000 !important;
 	/* font-weight: bold; */
 }
 
@@ -79,7 +79,7 @@ header #header-bar { margin-bottom: 10px !important; }
 /* 헤더 상단 메뉴 */
 header #header-bar>.row {
     border: none !important;
-    border-top: 4px solid #F15F5F !important;
+    border-top: 4px solid #9FC93C !important;
     border-radius: 0 0 5px 5px !important;
 }
 
@@ -101,7 +101,7 @@ header #header-bar #header-menu-right #userDropdown #notification-badge {
 /******* 좌측 트게더 메뉴 *******/
 #main .menu-wrapper { border: none !important; }
 #main .menu-wrapper>.header { 
-	background-color: #F29661  !important;
+	background-color: #47C83E  !important;
 	border-radius: 5px 5px 0 0 !important;
 }
 #main .menu-wrapper>a,

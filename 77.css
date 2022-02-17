@@ -4,8 +4,8 @@
   --bgcolor: #3DB7CC;
   --logoURL: url(여기에 로고 주소 입력);
   --logoWidth: 200px;  /* 로고 너비 */
-  --before: "";  /* 기다리는 */
-  --after: "";  /* 명 */
+  --before: "기다리는";  /* 기다리는 */
+  --after: "명";  /* 명 */
 }
 
 * {

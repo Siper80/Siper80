@@ -1,0 +1,18 @@
+:root {
+  --color-0: #ffffff; /* box color */
+
+  --color-1: #6EE3F7; /* */
+  --color-2: #6EE3F7; /* */
+  --color-3: #5CD1E5; /* main color */
+  --color-4: #4ABFD3; /* sub  color */
+  --color-5: #5CD1E5; /* */
+
+  --logo-URL: url("https://siper80.github.io/Siper80/ppppp.png");
+  --logo-Width: 200px;
+  --logo-Height: 50px;
+  --logo-size-mobile: 90px 32px;
+
+  --icon-URL: url("https://jayppo.github.io/CSS/source/icon.png");
+  --pre-comment: "꿀봉이 ";
+  --sub-comment: "명 접속중";
+}
